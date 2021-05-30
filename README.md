@@ -4,9 +4,12 @@ Digital Signal Processing in Python
 [TOC]
 
 ## 01. Sounds and signals
+### 1.1 Periodic signal
+### 1.2 Spectral decomposition
+### 1.3 Spectrums
 
 ## 02. Harmonics
-
+### 2.1 Aliasing
 ## 03. Non-periodic signals
 
 ## 04. Noise
